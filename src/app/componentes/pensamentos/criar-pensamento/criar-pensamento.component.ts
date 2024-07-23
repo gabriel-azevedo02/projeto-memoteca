@@ -25,7 +25,7 @@ export class CriarPensamentoComponent implements OnInit {
     alert("Novo pensamento criado");
   }
 
-  cancelarPensamento(){
+  cancelar(){
     alert("Ação cancelada!");
   }
 
